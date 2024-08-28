@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Homework 1 Question 6</title>
+</head>
+<body>
+  <table border="1">
+    <tr>
+      <th>TAMU Statistics</th>
+      <th>Amanda Spradlin</th>
+    </tr>
+    <tr>
+      <td><a href="url">https://artsci.tamu.edu/statistics/index.html</a></td>
+      <td><img src="myphoto.jpg" alt="myphoto"></td>
+    </tr>
+    <tr>
+       <td>
+          <ul>
+             <li>I have an M.S. majoring in Integrated Agricutlural Sciences.</li>
+             <li>I am pursuing a graduate certificate in Applied Statistics to shift my career.</li>
+          </ul>
+       </td>
+       <td>
+       </td>
+  </table>
+</body>
+</html>
